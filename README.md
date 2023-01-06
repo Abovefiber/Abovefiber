@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abovefiber
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java Programming
-- 💞️ I’m looking to collaborate on Android Development and Desktop Development using Java
+- 💞️ I’m looking to collaborate on Web Application Development and Desktop Development using Java
 - 📫 How to reach me: via Email (reiandsibucao@gmail.com) and Facebook (Andrei Daplas Sibucao)
 
 <!---
