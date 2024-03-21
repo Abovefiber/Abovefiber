@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abovefiber" alt="abovefiber" /></a> </p>
 
-- 🔭 I’m currently working on [Thesis](https://github.com/Xmaxter213/Thesis2)
-
 - 🌱 I’m currently learning **PHP, phpMyAdmin, Vue.js, React.js**
-
-- 🤝 I’m looking for help with [Thesis](https://github.com/Xmaxter213/Thesis2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
