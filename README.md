@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei Gabriel D. Sibucao</h1>
-<h3 align="center">A passionate and aspiring Software Engineering Student from the Philippines</h3>
+<h3 align="center">A Passionate and a Software Engineering Graduate from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abovefiber&label=Profile%20views&color=0e75b6&style=flat" alt="abovefiber" /> </p>
 
